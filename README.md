@@ -23,7 +23,7 @@ The application provides real-time visualizations including waveform display, FF
 
 ---
 
-## DSP Techniques Used
+## Key Concept
 
 * Audio Sampling (16 kHz)
 * Hamming Windowing
@@ -35,6 +35,17 @@ The application provides real-time visualizations including waveform display, FF
 * Cents Error Calculation
 
 ---
+## How It Works
+
+Microphone Input
+→ Audio Sampling
+→ Hamming Window
+→ FFT Analysis
+→ Peak Detection
+→ Frequency Estimation
+→ Note Mapping
+→ Cents Error Calculation
+→ Real-Time Dashboard
 
 ## Technologies Used
 
