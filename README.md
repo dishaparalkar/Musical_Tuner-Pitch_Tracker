@@ -1,4 +1,5 @@
 # 🎵 Musical Tuner & Pitch Tracker
+Real-time Musical Tuner and Pitch Tracker using Digital Signal Processing (DSP), FFT, Python, and Streamlit.
 
 ## Overview
 
