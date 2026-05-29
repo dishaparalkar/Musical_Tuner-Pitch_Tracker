@@ -1,0 +1,7 @@
+streamlit
+numpy
+sounddevice
+matplotlib
+plotly
+pandas
+streamlit-autorefresh
